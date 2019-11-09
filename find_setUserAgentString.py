@@ -5,11 +5,20 @@ from os.path import isfile, join
 apk_path = 'APKs'
 apks = [f for f in listdir(apk_path) if isfile(join(apk_path, f))]
 
+
+def writefile(file_name, content, tag='a+'):
+    file = open(file_name, tag)
+    file.writelines(content)
+    file.close()
+
+
+# file paths
+logfilename = 'log.txt'
+spoofingfilename = 'spoofing_apks.txt'
+
 # clean files
-log = open('log.txt', 'w+')
-log.close()
-spoofing_apks_file = open('spoofing_apks.txt', 'w+')
-spoofing_apks_file.close()
+for filename in [logfilename, spoofingfilename]:
+    writefile(filename, '', 'w+')
 
 # process
 for i, apk in enumerate(apks):
@@ -17,7 +26,6 @@ for i, apk in enumerate(apks):
     log_string = "{}/{}".format(i, len(apks))
     print(log_string)
     log_strings.append(log_string + "\n")
-
     spoofed = False
     a, d, dx = AnalyzeAPK(join(apk_path, apk))
     for c in dx.get_classes():
@@ -35,10 +43,6 @@ for i, apk in enumerate(apks):
                         spoofed = True
                 continue
     # write files
-    log = open('log.txt', 'a+')
-    log.writelines(log_strings)
-    log.close()
+    writefile(logfilename, log_strings)
     if spoofed:
-        spoofing_apks_file = open('spoofing_apks.txt', 'a+')
-        spoofing_apks_file.writelines(log_strings)
-        spoofing_apks_file.close()
+        writefile(spoofingfilename, log_strings)
