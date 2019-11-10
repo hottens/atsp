@@ -1,0 +1,475 @@
+0/187
+Class: Landroid/webkit/WebSettings; 	 APK: a.a.hikidashi.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+1/187
+2/187
+Class: Landroid/webkit/WebSettings; 	 APK: a.b.wassim.guide.apk
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+3/187
+4/187
+Class: Landroid/webkit/WebSettings; 	 APK: a2works.com.br.battery.apk
+  called by -> Lcom/google/android/gms/internal/ks; -- a
+5/187
+Class: Landroid/webkit/WebSettings; 	 APK: a2works.com.br.ipva_ba.apk
+  called by -> Lcom/google/android/gms/internal/wy; -- <init>
+6/187
+Class: Landroid/webkit/WebSettings; 	 APK: a2works.com.br.ipva_pr.apk
+  called by -> Lcom/google/android/gms/internal/ks; -- a
+7/187
+8/187
+9/187
+10/187
+11/187
+Class: Landroid/webkit/WebSettings; 	 APK: aave.lifebarometer.apk
+  called by -> Lcom/google/android/gms/internal/gi; -- a
+12/187
+13/187
+Class: Landroid/webkit/WebSettings; 	 APK: ab4tec.com.chronometerandtimer.apk
+  called by -> Lcom/google/android/gms/internal/zzhl; -- zza
+14/187
+Class: Landroid/webkit/WebSettings; 	 APK: abcom.com.timeconverter.apk
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+15/187
+Class: Landroid/webkit/WebSettings; 	 APK: abcom.istom.lovelywallpaper.apk
+  called by -> Lcom/google/android/gms/internal/cv; -- a
+16/187
+Class: Landroid/webkit/WebSettings; 	 APK: abd.abdallah.igli5.apk
+  called by -> Lcom/appyet/activity/DisqusCommentActivity; -- onCreate
+  called by -> Lcom/appyet/c/g; -- onViewCreated
+  called by -> Lcom/appyet/c/b/f; -- a
+  called by -> Lcom/appyet/c/m; -- onViewCreated
+  called by -> Lcom/appyet/c/b/h; -- a
+  called by -> Lcom/appyet/activity/WebBrowserActivity; -- onCreate
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+  called by -> Lcom/appyet/activity/WhatsNewActivity; -- onCreate
+  called by -> Lcom/appyet/c/b/q; -- d
+17/187
+Class: Landroid/webkit/WebSettings; 	 APK: abd.abdallah.islam.youtube.apk
+  called by -> Lcom/appyet/c/b/f; -- a
+  called by -> Lcom/appyet/c/m; -- onViewCreated
+  called by -> Lcom/appyet/c/g; -- onViewCreated
+  called by -> Lcom/appyet/activity/WhatsNewActivity; -- onCreate
+  called by -> Lcom/appyet/c/b/q; -- d
+  called by -> Lcom/appyet/activity/DisqusCommentActivity; -- onCreate
+  called by -> Lcom/appyet/c/b/h; -- a
+  called by -> Lcom/appyet/activity/WebBrowserActivity; -- onCreate
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+18/187
+Class: Landroid/webkit/WebSettings; 	 APK: abd.abdallah.uptodate.youtube.apk
+  called by -> Lcom/appyet/activity/WhatsNewActivity; -- onCreate
+  called by -> Lcom/appyet/activity/WebBrowserActivity; -- onCreate
+  called by -> Lcom/appyet/c/b/f; -- a
+  called by -> Lcom/appyet/c/g; -- onViewCreated
+  called by -> Lcom/appyet/c/b/q; -- d
+  called by -> Lcom/appyet/activity/DisqusCommentActivity; -- onCreate
+  called by -> Lcom/appyet/c/m; -- onViewCreated
+  called by -> Lcom/appyet/c/b/h; -- a
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+19/187
+20/187
+Class: Landroid/webkit/WebSettings; 	 APK: aboutdharma.com.apk
+  called by -> Lcom/appyet/c/g; -- onViewCreated
+  called by -> Lcom/appyet/c/b/f; -- a
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+  called by -> Lcom/appyet/activity/WhatsNewActivity; -- onCreate
+  called by -> Lcom/appyet/c/b/h; -- a
+  called by -> Lcom/appyet/c/b/q; -- d
+  called by -> Lcom/appyet/activity/WebBrowserActivity; -- onCreate
+  called by -> Lcom/appyet/activity/DisqusCommentActivity; -- onCreate
+  called by -> Lcom/appyet/c/m; -- onViewCreated
+21/187
+Class: Landroid/webkit/WebSettings; 	 APK: abstractionvideolwp.led.com.apk
+  called by -> Lcom/appbrain/a/bb; -- a
+  called by -> Lcom/google/android/gms/internal/zzhl; -- zza
+22/187
+23/187
+Class: Landroid/webkit/WebSettings; 	 APK: ac.rj.staff.apk
+  called by -> Lcom/google/android/gms/internal/zzid; -- zza
+24/187
+25/187
+26/187
+27/187
+Class: Landroid/webkit/WebSettings; 	 APK: acne.blogtreat.apk
+  called by -> Lacne/blogtreat/t_detalle_fr; -- onCreateView
+  called by -> Lacne/blogtreat/t_rssdetalle_fr; -- onCreateView
+  called by -> Lacne/blogtreat/t_url; -- onCreate
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+  called by -> Lacne/blogtreat/t_html; -- onCreate
+28/187
+29/187
+Class: Landroid/webkit/WebSettings; 	 APK: acs.borntf.ncs.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+30/187
+Class: Landroid/webkit/WebSettings; 	 APK: acs.tools.matheass.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+31/187
+Class: Landroid/webkit/WebSettings; 	 APK: acs.tools.preisvergleich.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+32/187
+33/187
+Class: Landroid/webkit/WebSettings; 	 APK: action.aspirvictorymanagement.flappy.dragon.dash.jungle.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+34/187
+35/187
+Class: Landroid/webkit/WebSettings; 	 APK: addis.keyboard.apk
+  called by -> Lcom/google/android/gms/b/ef; -- a
+36/187
+Class: Landroid/webkit/WebSettings; 	 APK: adikar.com.photogifmaker.apk
+  called by -> Lcom/google/android/gms/internal/zzpi; -- zza
+37/187
+38/187
+Class: Landroid/webkit/WebSettings; 	 APK: adrianoferraguto.oraesatta.apk
+  called by -> Lcom/facebook/react/views/webview/ReactWebViewManager; -- setUserAgent
+  called by -> Lcom/facebook/react/views/webview/ReactWebViewManager; -- setSource
+39/187
+40/187
+41/187
+Class: Landroid/webkit/WebSettings; 	 APK: adsindy.com.terla.apk
+  called by -> Lcom/google/android/gms/internal/gj; -- a
+42/187
+Class: Landroid/webkit/WebSettings; 	 APK: adsprotech.games.ball.shooter.two.apk
+  called by -> Lcom/google/android/gms/internal/zzho; -- zza
+43/187
+Class: Landroid/webkit/WebSettings; 	 APK: adtech.chitchat.apk
+  called by -> Lcom/google/android/gms/internal/zzkl; -- zza
+44/187
+Class: Landroid/webkit/WebSettings; 	 APK: adult.coloring.book.zendalas.apk
+  called by -> Lcom/google/android/gms/internal/co; -- a
+45/187
+46/187
+Class: Landroid/webkit/WebSettings; 	 APK: adyourself.tomorrow_smog.apk
+  called by -> Lcom/google/android/gms/internal/zzid; -- zza
+47/187
+48/187
+Class: Lorg/xwalk/core/XWalkView; 	 APK: ae.gov.ambulance.myarabic2.apk
+Class: Lorg/xwalk/core/internal/XWalkSettings; 	 APK: ae.gov.ambulance.myarabic2.apk
+  called by -> Lorg/xwalk/core/internal/XWalkViewInternal; -- setUserAgentString
+Class: Lorg/xwalk/core/internal/XWalkViewInternal; 	 APK: ae.gov.ambulance.myarabic2.apk
+  called by -> Lorg/xwalk/core/internal/XWalkViewBridge; -- setUserAgentStringSuper
+Class: Lorg/xwalk/core/internal/XWalkViewBridge; 	 APK: ae.gov.ambulance.myarabic2.apk
+Class: Landroid/webkit/WebSettings; 	 APK: ae.gov.ambulance.myarabic2.apk
+  called by -> Lorg/apache/cordova/engine/SystemWebViewEngine; -- initWebViewSettings
+  called by -> Lorg/apache/cordova/engine/SystemWebViewEngine; -- initWebViewSettings
+49/187
+50/187
+Class: Landroid/webkit/WebSettings; 	 APK: aerostone.bigear.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+51/187
+Class: Landroid/webkit/WebSettings; 	 APK: aesthetic.developers.flyingbirdy.apk
+  called by -> Lcom/google/android/gms/internal/cn; -- a
+52/187
+Class: Landroid/webkit/WebSettings; 	 APK: afd.app.ansaar.afd.apk
+  called by -> Lcom/google/android/gms/internal/gi; -- a
+53/187
+Class: Landroid/webkit/WebSettings; 	 APK: afk.passpal.free.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+54/187
+Class: Landroid/webkit/WebSettings; 	 APK: afkari.io.kalimathobei.apk
+  called by -> Lcom/google/android/gms/internal/zzid; -- zza
+55/187
+Class: Landroid/webkit/WebSettings; 	 APK: afzkl.development.ShoppingList.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+56/187
+Class: Landroid/webkit/WebSettings; 	 APK: ageagebatsugame.taro.apk
+  called by -> Lcom/google/android/gms/internal/ep; -- a
+57/187
+Class: Lorg/xwalk/core/XWalkSettings; 	 APK: agency.contra.apps.kpmg.kpmgglobalevent.apk
+Class: Lorg/xwalk/core/XWalkView; 	 APK: agency.contra.apps.kpmg.kpmgglobalevent.apk
+Class: Lorg/xwalk/core/internal/XWalkSettingsInternal; 	 APK: agency.contra.apps.kpmg.kpmgglobalevent.apk
+  called by -> Lorg/xwalk/core/internal/XWalkViewInternal; -- setUserAgentString
+  called by -> Lorg/xwalk/core/internal/XWalkSettingsBridge; -- setUserAgentStringSuper
+  called by -> Lorg/xwalk/core/internal/XWalkSettingsBridge; -- setUserAgentStringSuper
+Class: Lorg/xwalk/core/internal/XWalkViewInternal; 	 APK: agency.contra.apps.kpmg.kpmgglobalevent.apk
+  called by -> Lorg/xwalk/core/internal/XWalkViewBridge; -- setUserAgentStringSuper
+Class: Lorg/crosswalk/engine/XWalkCordovaView; 	 APK: agency.contra.apps.kpmg.kpmgglobalevent.apk
+  called by -> Lorg/crosswalk/engine/XWalkWebViewEngine; -- initWebViewSettings
+  called by -> Lorg/crosswalk/engine/XWalkWebViewEngine; -- initWebViewSettings
+Class: Lorg/xwalk/core/internal/XWalkSettingsBridge; 	 APK: agency.contra.apps.kpmg.kpmgglobalevent.apk
+Class: Lorg/xwalk/core/internal/XWalkViewBridge; 	 APK: agency.contra.apps.kpmg.kpmgglobalevent.apk
+Class: Landroid/webkit/WebSettings; 	 APK: agency.contra.apps.kpmg.kpmgglobalevent.apk
+  called by -> Lorg/apache/cordova/inappbrowser/InAppBrowser$5; -- run
+  called by -> Lorg/apache/cordova/engine/SystemWebViewEngine; -- initWebViewSettings
+  called by -> Lorg/apache/cordova/engine/SystemWebViewEngine; -- initWebViewSettings
+  called by -> Lorg/apache/cordova/inappbrowser/InAppBrowser$5; -- run
+58/187
+Class: Landroid/webkit/WebSettings; 	 APK: agexdev.theroad.apk
+  called by -> Lcom/google/android/gms/b/rp; -- a
+59/187
+Class: Landroid/webkit/WebSettings; 	 APK: agurapps.games.amazingmemory.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+60/187
+Class: Landroid/webkit/WebSettings; 	 APK: agurapps.games.BallAndPaddles.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+61/187
+Class: Landroid/webkit/WebSettings; 	 APK: ah.woeid.apk
+  called by -> Lcom/google/android/gms/internal/zzkl; -- zza
+62/187
+Class: Landroid/webkit/WebSettings; 	 APK: ahmad.appiques.mtdm.apk
+  called by -> Lcom/google/android/gms/internal/zzip; -- zza
+63/187
+Class: Landroid/webkit/WebSettings; 	 APK: ahmed.restau.apk
+  called by -> Lcom/google/android/gms/internal/zzka; -- zza
+64/187
+Class: Landroid/webkit/WebSettings; 	 APK: aidapp.newsportalhimachalpradesh.apk
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+65/187
+Class: Landroid/webkit/WebSettings; 	 APK: aidapp.newsportalodisha.apk
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+66/187
+Class: Landroid/webkit/WebSettings; 	 APK: aidapp.newsportaltamilnadu.apk
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+67/187
+68/187
+69/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.A3bibe.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+70/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.A40haditsakhirzaman.apk
+  called by -> Lcom/google/android/gms/internal/cv; -- a
+71/187
+72/187
+73/187
+74/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.air.FlashPunk.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+75/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.air.flexshapes.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+76/187
+77/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.air.it.aquacode.memory.AquaMemory.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+78/187
+79/187
+Class: Lnet/youmi/android/b/a/j/a/g; 	 APK: air.air.lyl.ThreeKingdomsFT.apk
+Class: Landroid/webkit/WebSettings; 	 APK: air.air.lyl.ThreeKingdomsFT.apk
+  called by -> Lnet/youmi/android/b/a/j/a/g; -- setUserAgentString
+80/187
+81/187
+82/187
+83/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.Airshooting.apk
+  called by -> Lcom/google/android/gms/internal/zzid; -- zza
+84/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.ajaztreasurehunt2.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+85/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.babysnailescape.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+86/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.colorsquareescape.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+87/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.AJAZGAMES.escapeabandonedgreyshades.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+88/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.escapegamesultan.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+89/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.escapekindnessthanksgiving.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+90/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.escapepickypicnic.apk
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+91/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.escapepixiedivine.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+92/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.escapesnapperfish.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+93/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.motorescape.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+94/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.pumpkinboyhalloweenescape.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+95/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.santaiceescape.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+96/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazgames.skimpyescape.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+97/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ajazzgames.escapeallhallowseve.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+98/187
+99/187
+100/187
+101/187
+102/187
+103/187
+104/187
+105/187
+106/187
+107/187
+108/187
+109/187
+110/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.Archerfree.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+111/187
+112/187
+113/187
+114/187
+115/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.AvmGames.MapleHouseEscape.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+116/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.BabyBearSurgerySimulator.apk
+  called by -> Lcom/google/android/gms/internal/zzid; -- zza
+117/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.BabyCleaningDay2.apk
+  called by -> Lcom/google/android/gms/internal/fk; -- a
+118/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.babyemmachristmasdressup.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+119/187
+120/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.BadjaoGirl.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+121/187
+122/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.BeautyTipsinTamil.apk
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+123/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.BestEscape82WaterPool.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+124/187
+125/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.BJC.apk
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+126/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.BlackjackCity.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+127/187
+128/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.br.com.buracojustificadomano.mobile.apk
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+129/187
+130/187
+131/187
+132/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.br.com.helme.bitbitrobotandroid.apk
+  called by -> Lc/m/x/a/am3/fd; -- a
+133/187
+134/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.br.com.netpoint.aasp.apk
+  called by -> Lcom/distriqt/extension/nativewebview/controller/webview/AdvancedWebView; -- setDesktopMode
+135/187
+136/187
+137/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.br.com.netpoint.gdp.apk
+  called by -> Lcom/distriqt/extension/nativewebview/controller/webview/AdvancedWebView; -- setDesktopMode
+138/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.br.com.netpoint.gvc.apk
+  called by -> Lcom/distriqt/extension/nativewebview/controller/webview/AdvancedWebView; -- setDesktopMode
+139/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.br.com.netpoint.integraeventos.apk
+  called by -> Lcom/distriqt/extension/nativewebview/controller/webview/AdvancedWebView; -- setDesktopMode
+140/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.br.com.netpoint.integragestao.apk
+  called by -> Lcom/distriqt/extension/nativewebview/controller/webview/AdvancedWebView; -- setDesktopMode
+141/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.br.com.netpoint.integravconf.apk
+  called by -> Lcom/distriqt/extension/nativewebview/controller/webview/AdvancedWebView; -- setDesktopMode
+142/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.br.com.netpoint.remateweb.apk
+  called by -> Lcom/distriqt/extension/nativewebview/controller/webview/AdvancedWebView; -- setDesktopMode
+143/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.br.com.netpoint.vconf.apk
+  called by -> Lcom/distriqt/extension/nativewebview/controller/webview/AdvancedWebView; -- setDesktopMode
+144/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.br.com.pifpaf.mobile.apk
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+145/187
+146/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.brightest.chinatractorracing2.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+147/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.brightest.stuntratunderground.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+148/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.brightest.yetiextrememotocross.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+149/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.bullstudios.mermaiddoctor.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+150/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.bullstudios.princessdoctorr.apk
+  called by -> Lcom/google/android/gms/internal/zzip; -- zza
+151/187
+152/187
+153/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.Bus_Stop_Parking.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+154/187
+155/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.Candybarcupcakes.apk
+  called by -> Lcom/google/android/gms/internal/zzid; -- zza
+156/187
+157/187
+158/187
+159/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.cellphoneescape.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+160/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ChaletGrandCerfEscape.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+161/187
+162/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.CheerfulGirlMatching.apk
+  called by -> Lcom/google/android/gms/internal/zzid; -- zza
+163/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.Chemical_Place_Escape.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+164/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ChiralCube.apk
+  called by -> Lcom/google/android/gms/internal/cv; -- a
+165/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.Christmascoloringbook3.apk
+  called by -> Lcom/google/android/gms/internal/cv; -- a
+166/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.ChristmasPuddingCakePops.apk
+  called by -> Lcom/google/android/gms/internal/fk; -- a
+167/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.cindycakemakerlite.apk
+  called by -> Lcom/google/android/gms/internal/cv; -- a
+168/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.co.yapps.ezan.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+169/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.com.abecedaire.JapaneseBrush.apk
+  called by -> Lcom/google/ads/util/AdUtil; -- a
+170/187
+171/187
+172/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.com.alchemiagames.offside.apk
+  called by -> Lcom/google/android/gms/internal/cv; -- a
+173/187
+174/187
+175/187
+176/187
+177/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.com.aminocookinchklo.selasaharablila.apk
+  called by -> Lcom/google/android/gms/internal/zzir; -- zza
+178/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.com.animatedsoftware.PavlovsDog.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+179/187
+180/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.com.applauz.brickpic.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+181/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.com.applauz.drizzyviews.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+182/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.com.applauz.legominifigures.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+183/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.com.applauz.wutangme.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
+184/187
+185/187
+186/187
+Class: Landroid/webkit/WebSettings; 	 APK: air.com.aquariumdeathstickman.apk
+  called by -> Lcom/google/android/gms/internal/dq; -- a
